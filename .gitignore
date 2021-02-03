@@ -1,3 +1,6 @@
 .DS_STORE
 .idea/
-/bin
+bin/
+.exercism/
+.classpath
+.project
